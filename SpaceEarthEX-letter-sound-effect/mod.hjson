@@ -1,7 +1,0 @@
-name: "letter-sound-effect"
-displayName: "Letter sound effect"
-author: "SpaceEarthEX"
-description: "The mod that changes all SFX into TTS sam voice."
-version: "0.1"
-minGameVersion: "105"
-hidden: "true"
